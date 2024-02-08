@@ -1,0 +1,3 @@
+C:/Users/imano/Desktop/UCC/Programcion II/Proyecto Final Programacion/cmake-build-debug/CMakeFiles/Proyecto_Final_Programacion.dir
+C:/Users/imano/Desktop/UCC/Programcion II/Proyecto Final Programacion/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/imano/Desktop/UCC/Programcion II/Proyecto Final Programacion/cmake-build-debug/CMakeFiles/rebuild_cache.dir

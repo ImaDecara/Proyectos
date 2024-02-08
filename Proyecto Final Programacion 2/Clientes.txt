@@ -1,0 +1,7 @@
+1 Juan Degiovanni PLATA 2003 Baja
+2 Pedro Laciar ORO 2020 Activo
+3 Julio Gutierrez BLACK 2007 Baja
+4 Raquel Martinez ORO 2023 Baja
+5 Daniel Perez ORO 2023 Baja
+500 quini entos ORO 2023 Activo
+71 Dario Benedeto PLATA 2003 Activo
